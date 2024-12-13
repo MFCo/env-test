@@ -7,8 +7,7 @@ First,un the development
 ```bas
 npm run
 # or
-yarn dev
-# or
+asd# or
 pnpm dev
 # or
 bun dev
